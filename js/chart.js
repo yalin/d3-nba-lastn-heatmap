@@ -35,7 +35,7 @@ const tooltip = chart
   .style('padding', '5px')
   .style('visibility', 'hidden')
 
-d3.json('/data/x_date_most_n.json').then(data => {
+d3.json('https://yalin.github.io/d3-nba-lastn-heatmap/data/x_date_most_n.json').then(data => {
   // x axis
   var xValues = _.uniq(
     _.orderBy(
