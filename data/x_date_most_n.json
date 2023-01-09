@@ -1,0 +1,2578 @@
+[
+	{
+		"lastn": 8,
+		"date": "2023-01-07",
+		"game": "3",
+		"total_game": "5",
+		"game_ratio": "60"
+	},
+	{
+		"lastn": 7,
+		"date": "2023-01-07",
+		"game": "3",
+		"total_game": "5",
+		"game_ratio": "60"
+	},
+	{
+		"lastn": 6,
+		"date": "2023-01-07",
+		"game": "3",
+		"total_game": "5",
+		"game_ratio": "60"
+	},
+	{
+		"lastn": 1,
+		"date": "2023-01-07",
+		"game": "3",
+		"total_game": "5",
+		"game_ratio": "60"
+	},
+	{
+		"lastn": 5,
+		"date": "2023-01-07",
+		"game": "3",
+		"total_game": "5",
+		"game_ratio": "60"
+	},
+	{
+		"lastn": 10,
+		"date": "2023-01-07",
+		"game": "3",
+		"total_game": "5",
+		"game_ratio": "60"
+	},
+	{
+		"lastn": 9,
+		"date": "2023-01-07",
+		"game": "3",
+		"total_game": "5",
+		"game_ratio": "60"
+	},
+	{
+		"lastn": 2,
+		"date": "2023-01-07",
+		"game": "2",
+		"total_game": "5",
+		"game_ratio": "40"
+	},
+	{
+		"lastn": 4,
+		"date": "2023-01-07",
+		"game": "1",
+		"total_game": "5",
+		"game_ratio": "20"
+	},
+	{
+		"lastn": 3,
+		"date": "2023-01-07",
+		"game": "1",
+		"total_game": "5",
+		"game_ratio": "20"
+	},
+	{
+		"lastn": 9,
+		"date": "2023-01-06",
+		"game": "7",
+		"total_game": "11",
+		"game_ratio": "64"
+	},
+	{
+		"lastn": 10,
+		"date": "2023-01-06",
+		"game": "7",
+		"total_game": "11",
+		"game_ratio": "64"
+	},
+	{
+		"lastn": 7,
+		"date": "2023-01-06",
+		"game": "7",
+		"total_game": "11",
+		"game_ratio": "64"
+	},
+	{
+		"lastn": 8,
+		"date": "2023-01-06",
+		"game": "7",
+		"total_game": "11",
+		"game_ratio": "64"
+	},
+	{
+		"lastn": 4,
+		"date": "2023-01-06",
+		"game": "6",
+		"total_game": "11",
+		"game_ratio": "55"
+	},
+	{
+		"lastn": 3,
+		"date": "2023-01-06",
+		"game": "6",
+		"total_game": "11",
+		"game_ratio": "55"
+	},
+	{
+		"lastn": 2,
+		"date": "2023-01-06",
+		"game": "6",
+		"total_game": "11",
+		"game_ratio": "55"
+	},
+	{
+		"lastn": 6,
+		"date": "2023-01-06",
+		"game": "6",
+		"total_game": "11",
+		"game_ratio": "55"
+	},
+	{
+		"lastn": 5,
+		"date": "2023-01-06",
+		"game": "5",
+		"total_game": "11",
+		"game_ratio": "45"
+	},
+	{
+		"lastn": 1,
+		"date": "2023-01-06",
+		"game": "3",
+		"total_game": "11",
+		"game_ratio": "27"
+	},
+	{
+		"lastn": 1,
+		"date": "2023-01-05",
+		"game": "3",
+		"total_game": "4",
+		"game_ratio": "75"
+	},
+	{
+		"lastn": 9,
+		"date": "2023-01-05",
+		"game": "1",
+		"total_game": "4",
+		"game_ratio": "25"
+	},
+	{
+		"lastn": 10,
+		"date": "2023-01-05",
+		"game": "1",
+		"total_game": "4",
+		"game_ratio": "25"
+	},
+	{
+		"lastn": 2,
+		"date": "2023-01-05",
+		"game": "1",
+		"total_game": "4",
+		"game_ratio": "25"
+	},
+	{
+		"lastn": 3,
+		"date": "2023-01-05",
+		"game": "1",
+		"total_game": "4",
+		"game_ratio": "25"
+	},
+	{
+		"lastn": 4,
+		"date": "2023-01-05",
+		"game": "1",
+		"total_game": "4",
+		"game_ratio": "25"
+	},
+	{
+		"lastn": 5,
+		"date": "2023-01-05",
+		"game": "1",
+		"total_game": "4",
+		"game_ratio": "25"
+	},
+	{
+		"lastn": 6,
+		"date": "2023-01-05",
+		"game": "1",
+		"total_game": "4",
+		"game_ratio": "25"
+	},
+	{
+		"lastn": 7,
+		"date": "2023-01-05",
+		"game": "1",
+		"total_game": "4",
+		"game_ratio": "25"
+	},
+	{
+		"lastn": 6,
+		"date": "2023-01-04",
+		"game": "8",
+		"total_game": "12",
+		"game_ratio": "67"
+	},
+	{
+		"lastn": 4,
+		"date": "2023-01-04",
+		"game": "8",
+		"total_game": "12",
+		"game_ratio": "67"
+	},
+	{
+		"lastn": 10,
+		"date": "2023-01-04",
+		"game": "7",
+		"total_game": "12",
+		"game_ratio": "58"
+	},
+	{
+		"lastn": 8,
+		"date": "2023-01-04",
+		"game": "7",
+		"total_game": "12",
+		"game_ratio": "58"
+	},
+	{
+		"lastn": 7,
+		"date": "2023-01-04",
+		"game": "7",
+		"total_game": "12",
+		"game_ratio": "58"
+	},
+	{
+		"lastn": 5,
+		"date": "2023-01-04",
+		"game": "7",
+		"total_game": "12",
+		"game_ratio": "58"
+	},
+	{
+		"lastn": 9,
+		"date": "2023-01-04",
+		"game": "6",
+		"total_game": "12",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 2,
+		"date": "2023-01-04",
+		"game": "5",
+		"total_game": "12",
+		"game_ratio": "42"
+	},
+	{
+		"lastn": 3,
+		"date": "2023-01-04",
+		"game": "5",
+		"total_game": "12",
+		"game_ratio": "42"
+	},
+	{
+		"lastn": 1,
+		"date": "2023-01-04",
+		"game": "4",
+		"total_game": "12",
+		"game_ratio": "33"
+	},
+	{
+		"lastn": 5,
+		"date": "2023-01-03",
+		"game": "3",
+		"total_game": "3",
+		"game_ratio": "100"
+	},
+	{
+		"lastn": 4,
+		"date": "2023-01-03",
+		"game": "3",
+		"total_game": "3",
+		"game_ratio": "100"
+	},
+	{
+		"lastn": 3,
+		"date": "2023-01-03",
+		"game": "2",
+		"total_game": "3",
+		"game_ratio": "67"
+	},
+	{
+		"lastn": 6,
+		"date": "2023-01-03",
+		"game": "2",
+		"total_game": "3",
+		"game_ratio": "67"
+	},
+	{
+		"lastn": 7,
+		"date": "2023-01-03",
+		"game": "2",
+		"total_game": "3",
+		"game_ratio": "67"
+	},
+	{
+		"lastn": 8,
+		"date": "2023-01-03",
+		"game": "2",
+		"total_game": "3",
+		"game_ratio": "67"
+	},
+	{
+		"lastn": 10,
+		"date": "2023-01-03",
+		"game": "2",
+		"total_game": "3",
+		"game_ratio": "67"
+	},
+	{
+		"lastn": 1,
+		"date": "2023-01-03",
+		"game": "1",
+		"total_game": "3",
+		"game_ratio": "33"
+	},
+	{
+		"lastn": 2,
+		"date": "2023-01-03",
+		"game": "1",
+		"total_game": "3",
+		"game_ratio": "33"
+	},
+	{
+		"lastn": 9,
+		"date": "2023-01-03",
+		"game": "1",
+		"total_game": "3",
+		"game_ratio": "33"
+	},
+	{
+		"lastn": 2,
+		"date": "2023-01-02",
+		"game": "7",
+		"total_game": "11",
+		"game_ratio": "64"
+	},
+	{
+		"lastn": 3,
+		"date": "2023-01-02",
+		"game": "7",
+		"total_game": "11",
+		"game_ratio": "64"
+	},
+	{
+		"lastn": 10,
+		"date": "2023-01-02",
+		"game": "6",
+		"total_game": "11",
+		"game_ratio": "55"
+	},
+	{
+		"lastn": 9,
+		"date": "2023-01-02",
+		"game": "6",
+		"total_game": "11",
+		"game_ratio": "55"
+	},
+	{
+		"lastn": 8,
+		"date": "2023-01-02",
+		"game": "6",
+		"total_game": "11",
+		"game_ratio": "55"
+	},
+	{
+		"lastn": 6,
+		"date": "2023-01-02",
+		"game": "6",
+		"total_game": "11",
+		"game_ratio": "55"
+	},
+	{
+		"lastn": 5,
+		"date": "2023-01-02",
+		"game": "6",
+		"total_game": "11",
+		"game_ratio": "55"
+	},
+	{
+		"lastn": 1,
+		"date": "2023-01-02",
+		"game": "6",
+		"total_game": "11",
+		"game_ratio": "55"
+	},
+	{
+		"lastn": 7,
+		"date": "2023-01-02",
+		"game": "5",
+		"total_game": "11",
+		"game_ratio": "45"
+	},
+	{
+		"lastn": 4,
+		"date": "2023-01-02",
+		"game": "4",
+		"total_game": "11",
+		"game_ratio": "36"
+	},
+	{
+		"lastn": 10,
+		"date": "2023-01-01",
+		"game": "2",
+		"total_game": "3",
+		"game_ratio": "67"
+	},
+	{
+		"lastn": 3,
+		"date": "2023-01-01",
+		"game": "1",
+		"total_game": "3",
+		"game_ratio": "33"
+	},
+	{
+		"lastn": 4,
+		"date": "2023-01-01",
+		"game": "1",
+		"total_game": "3",
+		"game_ratio": "33"
+	},
+	{
+		"lastn": 5,
+		"date": "2023-01-01",
+		"game": "1",
+		"total_game": "3",
+		"game_ratio": "33"
+	},
+	{
+		"lastn": 6,
+		"date": "2023-01-01",
+		"game": "1",
+		"total_game": "3",
+		"game_ratio": "33"
+	},
+	{
+		"lastn": 7,
+		"date": "2023-01-01",
+		"game": "1",
+		"total_game": "3",
+		"game_ratio": "33"
+	},
+	{
+		"lastn": 8,
+		"date": "2023-01-01",
+		"game": "1",
+		"total_game": "3",
+		"game_ratio": "33"
+	},
+	{
+		"lastn": 9,
+		"date": "2023-01-01",
+		"game": "1",
+		"total_game": "3",
+		"game_ratio": "33"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-12-31",
+		"game": "5",
+		"total_game": "9",
+		"game_ratio": "56"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-12-31",
+		"game": "5",
+		"total_game": "9",
+		"game_ratio": "56"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-12-31",
+		"game": "5",
+		"total_game": "9",
+		"game_ratio": "56"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-31",
+		"game": "5",
+		"total_game": "9",
+		"game_ratio": "56"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-12-31",
+		"game": "4",
+		"total_game": "9",
+		"game_ratio": "44"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-12-31",
+		"game": "4",
+		"total_game": "9",
+		"game_ratio": "44"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-12-31",
+		"game": "3",
+		"total_game": "9",
+		"game_ratio": "33"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-12-31",
+		"game": "2",
+		"total_game": "9",
+		"game_ratio": "22"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-12-31",
+		"game": "1",
+		"total_game": "9",
+		"game_ratio": "11"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-12-31",
+		"game": "1",
+		"total_game": "9",
+		"game_ratio": "11"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-12-30",
+		"game": "5",
+		"total_game": "9",
+		"game_ratio": "56"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-12-30",
+		"game": "5",
+		"total_game": "9",
+		"game_ratio": "56"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-30",
+		"game": "5",
+		"total_game": "9",
+		"game_ratio": "56"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-12-30",
+		"game": "4",
+		"total_game": "9",
+		"game_ratio": "44"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-12-30",
+		"game": "4",
+		"total_game": "9",
+		"game_ratio": "44"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-12-30",
+		"game": "4",
+		"total_game": "9",
+		"game_ratio": "44"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-12-30",
+		"game": "4",
+		"total_game": "9",
+		"game_ratio": "44"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-12-30",
+		"game": "4",
+		"total_game": "9",
+		"game_ratio": "44"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-12-30",
+		"game": "3",
+		"total_game": "9",
+		"game_ratio": "33"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-12-30",
+		"game": "3",
+		"total_game": "9",
+		"game_ratio": "33"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-12-29",
+		"game": "5",
+		"total_game": "6",
+		"game_ratio": "83"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-29",
+		"game": "5",
+		"total_game": "6",
+		"game_ratio": "83"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-12-29",
+		"game": "4",
+		"total_game": "6",
+		"game_ratio": "67"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-12-29",
+		"game": "4",
+		"total_game": "6",
+		"game_ratio": "67"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-12-29",
+		"game": "4",
+		"total_game": "6",
+		"game_ratio": "67"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-12-29",
+		"game": "4",
+		"total_game": "6",
+		"game_ratio": "67"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-12-29",
+		"game": "4",
+		"total_game": "6",
+		"game_ratio": "67"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-12-29",
+		"game": "3",
+		"total_game": "6",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-12-29",
+		"game": "3",
+		"total_game": "6",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-12-29",
+		"game": "3",
+		"total_game": "6",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-12-28",
+		"game": "5",
+		"total_game": "8",
+		"game_ratio": "63"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-12-28",
+		"game": "4",
+		"total_game": "8",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-28",
+		"game": "3",
+		"total_game": "8",
+		"game_ratio": "38"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-12-28",
+		"game": "3",
+		"total_game": "8",
+		"game_ratio": "38"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-12-28",
+		"game": "3",
+		"total_game": "8",
+		"game_ratio": "38"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-12-28",
+		"game": "2",
+		"total_game": "8",
+		"game_ratio": "25"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-12-28",
+		"game": "2",
+		"total_game": "8",
+		"game_ratio": "25"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-12-28",
+		"game": "2",
+		"total_game": "8",
+		"game_ratio": "25"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-12-28",
+		"game": "2",
+		"total_game": "8",
+		"game_ratio": "25"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-12-28",
+		"game": "1",
+		"total_game": "8",
+		"game_ratio": "13"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-12-27",
+		"game": "8",
+		"total_game": "10",
+		"game_ratio": "80"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-27",
+		"game": "8",
+		"total_game": "10",
+		"game_ratio": "80"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-12-27",
+		"game": "8",
+		"total_game": "10",
+		"game_ratio": "80"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-12-27",
+		"game": "8",
+		"total_game": "10",
+		"game_ratio": "80"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-12-27",
+		"game": "8",
+		"total_game": "10",
+		"game_ratio": "80"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-12-27",
+		"game": "8",
+		"total_game": "10",
+		"game_ratio": "80"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-12-27",
+		"game": "8",
+		"total_game": "10",
+		"game_ratio": "80"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-12-27",
+		"game": "6",
+		"total_game": "10",
+		"game_ratio": "60"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-12-27",
+		"game": "6",
+		"total_game": "10",
+		"game_ratio": "60"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-12-27",
+		"game": "5",
+		"total_game": "10",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-12-26",
+		"game": "4",
+		"total_game": "7",
+		"game_ratio": "57"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-12-26",
+		"game": "3",
+		"total_game": "7",
+		"game_ratio": "43"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-12-26",
+		"game": "3",
+		"total_game": "7",
+		"game_ratio": "43"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-12-26",
+		"game": "3",
+		"total_game": "7",
+		"game_ratio": "43"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-12-26",
+		"game": "3",
+		"total_game": "7",
+		"game_ratio": "43"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-12-26",
+		"game": "3",
+		"total_game": "7",
+		"game_ratio": "43"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-12-26",
+		"game": "3",
+		"total_game": "7",
+		"game_ratio": "43"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-12-26",
+		"game": "3",
+		"total_game": "7",
+		"game_ratio": "43"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-12-26",
+		"game": "3",
+		"total_game": "7",
+		"game_ratio": "43"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-26",
+		"game": "1",
+		"total_game": "7",
+		"game_ratio": "14"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-25",
+		"game": "3",
+		"total_game": "5",
+		"game_ratio": "60"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-12-25",
+		"game": "3",
+		"total_game": "5",
+		"game_ratio": "60"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-12-25",
+		"game": "2",
+		"total_game": "5",
+		"game_ratio": "40"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-12-25",
+		"game": "2",
+		"total_game": "5",
+		"game_ratio": "40"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-12-25",
+		"game": "2",
+		"total_game": "5",
+		"game_ratio": "40"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-12-25",
+		"game": "1",
+		"total_game": "5",
+		"game_ratio": "20"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-12-25",
+		"game": "1",
+		"total_game": "5",
+		"game_ratio": "20"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-12-25",
+		"game": "1",
+		"total_game": "5",
+		"game_ratio": "20"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-12-25",
+		"game": "1",
+		"total_game": "5",
+		"game_ratio": "20"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-12-25",
+		"game": "1",
+		"total_game": "5",
+		"game_ratio": "20"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-12-23",
+		"game": "10",
+		"total_game": "14",
+		"game_ratio": "71"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-12-23",
+		"game": "9",
+		"total_game": "14",
+		"game_ratio": "64"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-12-23",
+		"game": "8",
+		"total_game": "14",
+		"game_ratio": "57"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-12-23",
+		"game": "8",
+		"total_game": "14",
+		"game_ratio": "57"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-12-23",
+		"game": "8",
+		"total_game": "14",
+		"game_ratio": "57"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-12-23",
+		"game": "7",
+		"total_game": "14",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-12-23",
+		"game": "7",
+		"total_game": "14",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-23",
+		"game": "7",
+		"total_game": "14",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-12-23",
+		"game": "6",
+		"total_game": "14",
+		"game_ratio": "43"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-12-23",
+		"game": "6",
+		"total_game": "14",
+		"game_ratio": "43"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-22",
+		"game": "2",
+		"total_game": "2",
+		"game_ratio": "100"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-12-22",
+		"game": "1",
+		"total_game": "2",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-12-22",
+		"game": "1",
+		"total_game": "2",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-12-22",
+		"game": "1",
+		"total_game": "2",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-12-22",
+		"game": "1",
+		"total_game": "2",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-12-22",
+		"game": "1",
+		"total_game": "2",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-12-22",
+		"game": "1",
+		"total_game": "2",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-12-22",
+		"game": "1",
+		"total_game": "2",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-12-22",
+		"game": "1",
+		"total_game": "2",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-12-22",
+		"game": "1",
+		"total_game": "2",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-12-21",
+		"game": "8",
+		"total_game": "11",
+		"game_ratio": "73"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-12-21",
+		"game": "7",
+		"total_game": "11",
+		"game_ratio": "64"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-12-21",
+		"game": "7",
+		"total_game": "11",
+		"game_ratio": "64"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-12-21",
+		"game": "6",
+		"total_game": "11",
+		"game_ratio": "55"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-12-21",
+		"game": "6",
+		"total_game": "11",
+		"game_ratio": "55"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-12-21",
+		"game": "6",
+		"total_game": "11",
+		"game_ratio": "55"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-12-21",
+		"game": "6",
+		"total_game": "11",
+		"game_ratio": "55"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-21",
+		"game": "6",
+		"total_game": "11",
+		"game_ratio": "55"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-12-21",
+		"game": "5",
+		"total_game": "11",
+		"game_ratio": "45"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-12-21",
+		"game": "5",
+		"total_game": "11",
+		"game_ratio": "45"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-12-20",
+		"game": "4",
+		"total_game": "5",
+		"game_ratio": "80"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-12-20",
+		"game": "3",
+		"total_game": "5",
+		"game_ratio": "60"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-12-20",
+		"game": "3",
+		"total_game": "5",
+		"game_ratio": "60"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-12-20",
+		"game": "3",
+		"total_game": "5",
+		"game_ratio": "60"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-12-20",
+		"game": "3",
+		"total_game": "5",
+		"game_ratio": "60"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-12-20",
+		"game": "3",
+		"total_game": "5",
+		"game_ratio": "60"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-20",
+		"game": "2",
+		"total_game": "5",
+		"game_ratio": "40"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-12-20",
+		"game": "2",
+		"total_game": "5",
+		"game_ratio": "40"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-12-20",
+		"game": "2",
+		"total_game": "5",
+		"game_ratio": "40"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-12-20",
+		"game": "1",
+		"total_game": "5",
+		"game_ratio": "20"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-12-19",
+		"game": "5",
+		"total_game": "9",
+		"game_ratio": "56"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-12-19",
+		"game": "5",
+		"total_game": "9",
+		"game_ratio": "56"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-12-19",
+		"game": "4",
+		"total_game": "9",
+		"game_ratio": "44"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-19",
+		"game": "3",
+		"total_game": "9",
+		"game_ratio": "33"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-12-19",
+		"game": "3",
+		"total_game": "9",
+		"game_ratio": "33"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-12-19",
+		"game": "3",
+		"total_game": "9",
+		"game_ratio": "33"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-12-19",
+		"game": "3",
+		"total_game": "9",
+		"game_ratio": "33"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-12-19",
+		"game": "3",
+		"total_game": "9",
+		"game_ratio": "33"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-12-19",
+		"game": "3",
+		"total_game": "9",
+		"game_ratio": "33"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-12-19",
+		"game": "2",
+		"total_game": "9",
+		"game_ratio": "22"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-12-18",
+		"game": "5",
+		"total_game": "7",
+		"game_ratio": "71"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-12-18",
+		"game": "4",
+		"total_game": "7",
+		"game_ratio": "57"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-12-18",
+		"game": "4",
+		"total_game": "7",
+		"game_ratio": "57"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-12-18",
+		"game": "4",
+		"total_game": "7",
+		"game_ratio": "57"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-12-18",
+		"game": "4",
+		"total_game": "7",
+		"game_ratio": "57"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-12-18",
+		"game": "3",
+		"total_game": "7",
+		"game_ratio": "43"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-12-18",
+		"game": "3",
+		"total_game": "7",
+		"game_ratio": "43"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-18",
+		"game": "3",
+		"total_game": "7",
+		"game_ratio": "43"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-12-18",
+		"game": "2",
+		"total_game": "7",
+		"game_ratio": "29"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-12-18",
+		"game": "2",
+		"total_game": "7",
+		"game_ratio": "29"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-12-17",
+		"game": "5",
+		"total_game": "7",
+		"game_ratio": "71"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-12-17",
+		"game": "4",
+		"total_game": "7",
+		"game_ratio": "57"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-12-17",
+		"game": "4",
+		"total_game": "7",
+		"game_ratio": "57"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-12-17",
+		"game": "4",
+		"total_game": "7",
+		"game_ratio": "57"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-12-17",
+		"game": "4",
+		"total_game": "7",
+		"game_ratio": "57"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-12-17",
+		"game": "4",
+		"total_game": "7",
+		"game_ratio": "57"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-12-17",
+		"game": "3",
+		"total_game": "7",
+		"game_ratio": "43"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-12-17",
+		"game": "3",
+		"total_game": "7",
+		"game_ratio": "43"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-17",
+		"game": "2",
+		"total_game": "7",
+		"game_ratio": "29"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-12-17",
+		"game": "2",
+		"total_game": "7",
+		"game_ratio": "29"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-12-16",
+		"game": "7",
+		"total_game": "10",
+		"game_ratio": "70"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-12-16",
+		"game": "7",
+		"total_game": "10",
+		"game_ratio": "70"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-12-16",
+		"game": "6",
+		"total_game": "10",
+		"game_ratio": "60"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-12-16",
+		"game": "6",
+		"total_game": "10",
+		"game_ratio": "60"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-12-16",
+		"game": "6",
+		"total_game": "10",
+		"game_ratio": "60"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-12-16",
+		"game": "6",
+		"total_game": "10",
+		"game_ratio": "60"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-12-16",
+		"game": "5",
+		"total_game": "10",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-12-16",
+		"game": "5",
+		"total_game": "10",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-12-16",
+		"game": "4",
+		"total_game": "10",
+		"game_ratio": "40"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-16",
+		"game": "3",
+		"total_game": "10",
+		"game_ratio": "30"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-15",
+		"game": "3",
+		"total_game": "4",
+		"game_ratio": "75"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-12-15",
+		"game": "3",
+		"total_game": "4",
+		"game_ratio": "75"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-12-15",
+		"game": "2",
+		"total_game": "4",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-12-15",
+		"game": "2",
+		"total_game": "4",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-12-15",
+		"game": "2",
+		"total_game": "4",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-12-15",
+		"game": "2",
+		"total_game": "4",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-12-15",
+		"game": "2",
+		"total_game": "4",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-12-15",
+		"game": "1",
+		"total_game": "4",
+		"game_ratio": "25"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-12-15",
+		"game": "1",
+		"total_game": "4",
+		"game_ratio": "25"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-12-15",
+		"game": "1",
+		"total_game": "4",
+		"game_ratio": "25"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-14",
+		"game": "4",
+		"total_game": "10",
+		"game_ratio": "40"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-12-14",
+		"game": "4",
+		"total_game": "10",
+		"game_ratio": "40"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-12-14",
+		"game": "4",
+		"total_game": "10",
+		"game_ratio": "40"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-12-14",
+		"game": "4",
+		"total_game": "10",
+		"game_ratio": "40"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-12-14",
+		"game": "3",
+		"total_game": "10",
+		"game_ratio": "30"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-12-14",
+		"game": "3",
+		"total_game": "10",
+		"game_ratio": "30"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-12-14",
+		"game": "3",
+		"total_game": "10",
+		"game_ratio": "30"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-12-14",
+		"game": "3",
+		"total_game": "10",
+		"game_ratio": "30"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-12-14",
+		"game": "2",
+		"total_game": "10",
+		"game_ratio": "20"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-12-14",
+		"game": "2",
+		"total_game": "10",
+		"game_ratio": "20"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-12-13",
+		"game": "3",
+		"total_game": "5",
+		"game_ratio": "60"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-12-13",
+		"game": "2",
+		"total_game": "5",
+		"game_ratio": "40"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-12-13",
+		"game": "2",
+		"total_game": "5",
+		"game_ratio": "40"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-12-13",
+		"game": "1",
+		"total_game": "5",
+		"game_ratio": "20"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-12-13",
+		"game": "1",
+		"total_game": "5",
+		"game_ratio": "20"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-12-13",
+		"game": "1",
+		"total_game": "5",
+		"game_ratio": "20"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-12-13",
+		"game": "1",
+		"total_game": "5",
+		"game_ratio": "20"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-12-13",
+		"game": "1",
+		"total_game": "5",
+		"game_ratio": "20"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-13",
+		"game": "1",
+		"total_game": "5",
+		"game_ratio": "20"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-12",
+		"game": "4",
+		"total_game": "7",
+		"game_ratio": "57"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-12-12",
+		"game": "4",
+		"total_game": "7",
+		"game_ratio": "57"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-12-12",
+		"game": "4",
+		"total_game": "7",
+		"game_ratio": "57"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-12-12",
+		"game": "4",
+		"total_game": "7",
+		"game_ratio": "57"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-12-12",
+		"game": "4",
+		"total_game": "7",
+		"game_ratio": "57"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-12-12",
+		"game": "3",
+		"total_game": "7",
+		"game_ratio": "43"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-12-12",
+		"game": "3",
+		"total_game": "7",
+		"game_ratio": "43"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-12-12",
+		"game": "3",
+		"total_game": "7",
+		"game_ratio": "43"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-12-12",
+		"game": "3",
+		"total_game": "7",
+		"game_ratio": "43"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-12-12",
+		"game": "1",
+		"total_game": "7",
+		"game_ratio": "14"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-12-11",
+		"game": "6",
+		"total_game": "7",
+		"game_ratio": "86"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-11",
+		"game": "5",
+		"total_game": "7",
+		"game_ratio": "71"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-12-11",
+		"game": "5",
+		"total_game": "7",
+		"game_ratio": "71"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-12-11",
+		"game": "4",
+		"total_game": "7",
+		"game_ratio": "57"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-12-11",
+		"game": "4",
+		"total_game": "7",
+		"game_ratio": "57"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-12-11",
+		"game": "4",
+		"total_game": "7",
+		"game_ratio": "57"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-12-11",
+		"game": "4",
+		"total_game": "7",
+		"game_ratio": "57"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-12-11",
+		"game": "3",
+		"total_game": "7",
+		"game_ratio": "43"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-12-11",
+		"game": "3",
+		"total_game": "7",
+		"game_ratio": "43"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-12-11",
+		"game": "3",
+		"total_game": "7",
+		"game_ratio": "43"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-12-10",
+		"game": "7",
+		"total_game": "8",
+		"game_ratio": "88"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-10",
+		"game": "6",
+		"total_game": "8",
+		"game_ratio": "75"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-12-10",
+		"game": "6",
+		"total_game": "8",
+		"game_ratio": "75"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-12-10",
+		"game": "5",
+		"total_game": "8",
+		"game_ratio": "63"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-12-10",
+		"game": "5",
+		"total_game": "8",
+		"game_ratio": "63"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-12-10",
+		"game": "5",
+		"total_game": "8",
+		"game_ratio": "63"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-12-10",
+		"game": "5",
+		"total_game": "8",
+		"game_ratio": "63"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-12-10",
+		"game": "5",
+		"total_game": "8",
+		"game_ratio": "63"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-12-10",
+		"game": "3",
+		"total_game": "8",
+		"game_ratio": "38"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-12-10",
+		"game": "3",
+		"total_game": "8",
+		"game_ratio": "38"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-12-09",
+		"game": "7",
+		"total_game": "10",
+		"game_ratio": "70"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-12-09",
+		"game": "6",
+		"total_game": "10",
+		"game_ratio": "60"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-12-09",
+		"game": "6",
+		"total_game": "10",
+		"game_ratio": "60"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-12-09",
+		"game": "6",
+		"total_game": "10",
+		"game_ratio": "60"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-12-09",
+		"game": "5",
+		"total_game": "10",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-12-09",
+		"game": "5",
+		"total_game": "10",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-12-09",
+		"game": "5",
+		"total_game": "10",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-12-09",
+		"game": "5",
+		"total_game": "10",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-12-09",
+		"game": "5",
+		"total_game": "10",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-09",
+		"game": "4",
+		"total_game": "10",
+		"game_ratio": "40"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-12-08",
+		"game": "3",
+		"total_game": "3",
+		"game_ratio": "100"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-12-08",
+		"game": "3",
+		"total_game": "3",
+		"game_ratio": "100"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-12-08",
+		"game": "2",
+		"total_game": "3",
+		"game_ratio": "67"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-12-08",
+		"game": "2",
+		"total_game": "3",
+		"game_ratio": "67"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-12-08",
+		"game": "2",
+		"total_game": "3",
+		"game_ratio": "67"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-12-08",
+		"game": "2",
+		"total_game": "3",
+		"game_ratio": "67"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-12-08",
+		"game": "2",
+		"total_game": "3",
+		"game_ratio": "67"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-08",
+		"game": "2",
+		"total_game": "3",
+		"game_ratio": "67"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-12-08",
+		"game": "1",
+		"total_game": "3",
+		"game_ratio": "33"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-12-08",
+		"game": "1",
+		"total_game": "3",
+		"game_ratio": "33"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-12-07",
+		"game": "6",
+		"total_game": "11",
+		"game_ratio": "55"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-12-07",
+		"game": "6",
+		"total_game": "11",
+		"game_ratio": "55"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-12-07",
+		"game": "5",
+		"total_game": "11",
+		"game_ratio": "45"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-12-07",
+		"game": "5",
+		"total_game": "11",
+		"game_ratio": "45"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-12-07",
+		"game": "5",
+		"total_game": "11",
+		"game_ratio": "45"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-12-07",
+		"game": "5",
+		"total_game": "11",
+		"game_ratio": "45"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-12-07",
+		"game": "5",
+		"total_game": "11",
+		"game_ratio": "45"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-12-07",
+		"game": "5",
+		"total_game": "11",
+		"game_ratio": "45"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-07",
+		"game": "4",
+		"total_game": "11",
+		"game_ratio": "36"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-12-07",
+		"game": "4",
+		"total_game": "11",
+		"game_ratio": "36"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-06",
+		"game": "3",
+		"total_game": "3",
+		"game_ratio": "100"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-12-06",
+		"game": "3",
+		"total_game": "3",
+		"game_ratio": "100"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-12-06",
+		"game": "2",
+		"total_game": "3",
+		"game_ratio": "67"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-12-06",
+		"game": "2",
+		"total_game": "3",
+		"game_ratio": "67"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-12-06",
+		"game": "2",
+		"total_game": "3",
+		"game_ratio": "67"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-12-06",
+		"game": "2",
+		"total_game": "3",
+		"game_ratio": "67"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-12-06",
+		"game": "2",
+		"total_game": "3",
+		"game_ratio": "67"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-12-06",
+		"game": "2",
+		"total_game": "3",
+		"game_ratio": "67"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-12-06",
+		"game": "1",
+		"total_game": "3",
+		"game_ratio": "33"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-12-06",
+		"game": "1",
+		"total_game": "3",
+		"game_ratio": "33"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-12-05",
+		"game": "6",
+		"total_game": "8",
+		"game_ratio": "75"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-12-05",
+		"game": "6",
+		"total_game": "8",
+		"game_ratio": "75"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-12-05",
+		"game": "6",
+		"total_game": "8",
+		"game_ratio": "75"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-12-05",
+		"game": "5",
+		"total_game": "8",
+		"game_ratio": "63"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-12-05",
+		"game": "5",
+		"total_game": "8",
+		"game_ratio": "63"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-12-05",
+		"game": "4",
+		"total_game": "8",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-05",
+		"game": "4",
+		"total_game": "8",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-12-05",
+		"game": "4",
+		"total_game": "8",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-12-05",
+		"game": "4",
+		"total_game": "8",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-12-05",
+		"game": "4",
+		"total_game": "8",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-04",
+		"game": "7",
+		"total_game": "8",
+		"game_ratio": "88"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-12-04",
+		"game": "5",
+		"total_game": "8",
+		"game_ratio": "63"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-12-04",
+		"game": "5",
+		"total_game": "8",
+		"game_ratio": "63"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-12-04",
+		"game": "4",
+		"total_game": "8",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-12-04",
+		"game": "4",
+		"total_game": "8",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-12-04",
+		"game": "4",
+		"total_game": "8",
+		"game_ratio": "50"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-12-04",
+		"game": "3",
+		"total_game": "8",
+		"game_ratio": "38"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-12-04",
+		"game": "3",
+		"total_game": "8",
+		"game_ratio": "38"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-12-04",
+		"game": "3",
+		"total_game": "8",
+		"game_ratio": "38"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-12-04",
+		"game": "2",
+		"total_game": "8",
+		"game_ratio": "25"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-12-03",
+		"game": "3",
+		"total_game": "7",
+		"game_ratio": "43"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-12-03",
+		"game": "3",
+		"total_game": "7",
+		"game_ratio": "43"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-12-03",
+		"game": "3",
+		"total_game": "7",
+		"game_ratio": "43"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-12-03",
+		"game": "3",
+		"total_game": "7",
+		"game_ratio": "43"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-12-03",
+		"game": "2",
+		"total_game": "7",
+		"game_ratio": "29"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-12-03",
+		"game": "2",
+		"total_game": "7",
+		"game_ratio": "29"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-12-03",
+		"game": "2",
+		"total_game": "7",
+		"game_ratio": "29"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-12-03",
+		"game": "2",
+		"total_game": "7",
+		"game_ratio": "29"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-12-03",
+		"game": "2",
+		"total_game": "7",
+		"game_ratio": "29"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-03",
+		"game": "2",
+		"total_game": "7",
+		"game_ratio": "29"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-12-02",
+		"game": "10",
+		"total_game": "11",
+		"game_ratio": "91"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-12-02",
+		"game": "10",
+		"total_game": "11",
+		"game_ratio": "91"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-12-02",
+		"game": "10",
+		"total_game": "11",
+		"game_ratio": "91"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-12-02",
+		"game": "10",
+		"total_game": "11",
+		"game_ratio": "91"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-12-02",
+		"game": "9",
+		"total_game": "11",
+		"game_ratio": "82"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-12-02",
+		"game": "9",
+		"total_game": "11",
+		"game_ratio": "82"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-12-02",
+		"game": "8",
+		"total_game": "11",
+		"game_ratio": "73"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-12-02",
+		"game": "8",
+		"total_game": "11",
+		"game_ratio": "73"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-02",
+		"game": "6",
+		"total_game": "11",
+		"game_ratio": "55"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-12-02",
+		"game": "6",
+		"total_game": "11",
+		"game_ratio": "55"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-12-01",
+		"game": "1",
+		"total_game": "1",
+		"game_ratio": "100"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-12-01",
+		"game": "1",
+		"total_game": "1",
+		"game_ratio": "100"
+	},
+	{
+		"lastn": 6,
+		"date": "2022-11-30",
+		"game": "8",
+		"total_game": "13",
+		"game_ratio": "62"
+	},
+	{
+		"lastn": 7,
+		"date": "2022-11-30",
+		"game": "8",
+		"total_game": "13",
+		"game_ratio": "62"
+	},
+	{
+		"lastn": 8,
+		"date": "2022-11-30",
+		"game": "8",
+		"total_game": "13",
+		"game_ratio": "62"
+	},
+	{
+		"lastn": 9,
+		"date": "2022-11-30",
+		"game": "7",
+		"total_game": "13",
+		"game_ratio": "54"
+	},
+	{
+		"lastn": 5,
+		"date": "2022-11-30",
+		"game": "6",
+		"total_game": "13",
+		"game_ratio": "46"
+	},
+	{
+		"lastn": 10,
+		"date": "2022-11-30",
+		"game": "6",
+		"total_game": "13",
+		"game_ratio": "46"
+	},
+	{
+		"lastn": 2,
+		"date": "2022-11-30",
+		"game": "5",
+		"total_game": "13",
+		"game_ratio": "38"
+	},
+	{
+		"lastn": 3,
+		"date": "2022-11-30",
+		"game": "4",
+		"total_game": "13",
+		"game_ratio": "31"
+	},
+	{
+		"lastn": 4,
+		"date": "2022-11-30",
+		"game": "4",
+		"total_game": "13",
+		"game_ratio": "31"
+	},
+	{
+		"lastn": 1,
+		"date": "2022-11-30",
+		"game": "4",
+		"total_game": "13",
+		"game_ratio": "31"
+	}
+]
